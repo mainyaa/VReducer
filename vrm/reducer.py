@@ -668,13 +668,6 @@ def reduce_vroid(gltf, replace_shade_color, texture_size, emissive):
         '_FaceEyelash_': {'pos': (0, 1024), 'size': (1024, 512)}
     }, '_FaceEyeline_', texture_size)
 
-    # 瞳孔、ハイライト、白目
-    gltf = combine_material(gltf, {
-        '_EyeIris_': {'pos': (0, 0), 'size': (1024, 512)},
-        '_EyeHighlight_': {'pos': (0, 512), 'size': (1024, 512)},
-        '_EyeWhite_': {'pos': (0, 1024), 'size': (1024, 512)}
-    }, '_EyeHighlight_', texture_size)
-
     # 髪の毛、頭の下毛
     hair_back_material = find_vrm_material(gltf, '_HairBack_')
     if hair_back_material:
