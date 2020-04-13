@@ -4,10 +4,12 @@
     - usagi/VReducer での主な更新:
         - [Python-3 Migration](https://github.com/usagi/VReducer/tree/python3-migration)
         - この README.md と [LICENSE](LICENSE) の内容の更新
-- 2020-04-13 時点で確認できた他の2つの Fork の更新も取り込んでいます:
-    1. [nkjzm/Vreducer](https://github.com/nkjzm/VReducer)
+- 2020-04-13 時点で確認できた他の3つの Fork の更新も取り込んでいます:
+    1. [saturday06/VReducer](https://github.com/saturday06/VReducer)
+        - [Merge branch 'fix-glb-length' into work](https://github.com/saturday06/VReducer/commit/49d75bd2c63b18cab4e76682fc432cd3a85b447a)
+    2. [nkjzm/VReducer](https://github.com/nkjzm/VReducer)
         - [Fix texture name for VRoid Studio v0.8.3](https://github.com/nkjzm/VReducer/commit/455400a2d93c944e8ad7daddd0cbfd493bd9fa42)
-    2. [zk-phi/Vreducer](https://github.com/zk-phi/VReducer)
+    3. [zk-phi/VReducer](https://github.com/zk-phi/VReducer)
         - [eyeball fix](https://github.com/zk-phi/VReducer/commit/e26efc541e47dbb1c7402b66d9c0a87c31814725)
 - すべての Fork の最新の更新状態は [オリジナルのリポジトリーの Network graph](https://github.com/kanno2inf/VReducer/network) で確認できます。
 
