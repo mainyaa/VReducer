@@ -6,6 +6,7 @@
         - この README.md と [LICENSE](LICENSE) の内容の更新
 - 2020-04-13 時点で確認できた他の3つの Fork の更新も取り込んでいます:
     1. [saturday06/VReducer](https://github.com/saturday06/VReducer)
+        - [Refactoring and add test for deduplicating material method](https://github.com/saturday06/VReducer/commit/676a6f42a686abcbc6873f35ac4789e1e3e6704b)
         - [Merge branch 'fix-glb-length' into work](https://github.com/saturday06/VReducer/commit/49d75bd2c63b18cab4e76682fc432cd3a85b447a)
     2. [nkjzm/VReducer](https://github.com/nkjzm/VReducer)
         - [Fix texture name for VRoid Studio v0.8.3](https://github.com/nkjzm/VReducer/commit/455400a2d93c944e8ad7daddd0cbfd493bd9fa42)
