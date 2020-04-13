@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-
 import pytest
 
 from vrm.reducer import unique_vrm_materials, deduplicated_materials
